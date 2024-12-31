@@ -1,0 +1,12 @@
+# Ignore build directories
+**/build/
+
+# Ignore log files
+**/log/
+**/*.log
+
+# Ignore install directories
+**/install/
+
+# Ignore _MACOSX directories
+**/__MACOSX/
